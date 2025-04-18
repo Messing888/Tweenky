@@ -20,3 +20,22 @@ In **Tweenky**, you control a shape (or “tween”) that pulses to the beat of 
 
 ---
 
+## 📸 Screenshots (Coming Soon)
+
+<!-- Insert gameplay GIFs or images here -->
+
+---
+
+## 📦 Installation
+
+### Web (Play in browser)
+
+Coming soon: [https://tweenky.io](https://tweenky.io)
+
+### Local Development
+
+```bash
+git clone https://github.com/yourusername/tweenky.git
+cd tweenky
+npm install
+npm run dev
