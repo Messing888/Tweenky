@@ -9,3 +9,14 @@ In **Tweenky**, you control a shape (or “tween”) that pulses to the beat of 
 > Think: **Geometry Dash** meets **Beat Saber**, but in a colorful, circular arena.
 
 ---
+## 🕹️ Gameplay Features
+
+- 🎵 **Rhythm-based action** synced to original music tracks  
+- 🌀 **Circular arena** with rotating beats and obstacles  
+- 🔄 **Endless mode** with increasing difficulty  
+- 🎨 Unlockable **skins, effects & color palettes**  
+- 🌍 **Global leaderboard** + local stats tracking  
+- 🎧 Optional **custom track mode** (WIP)
+
+---
+
